@@ -1,0 +1,14 @@
+table {
+    border: 1px double red;
+    background-color: aquamarine;
+}
+
+th,tr {
+    text-align: center;
+    padding: 5px;
+
+}
+th{
+    background-color: coral;
+    color:black;
+}
